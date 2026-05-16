@@ -99,3 +99,4 @@ Download files from github link
 Download the GlobalWeatherRepository.csv from kaggle into your project folder
 Pip install –r requirements.txt
 Run in order of DataCleaning.py, testing_models.py, optuna_XGboost.py, ensemble_models.py, then data_visualizations.py
+Also to run this code with the gpu enabled you need to setup cuda for you're graphics card
